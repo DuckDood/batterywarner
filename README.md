@@ -1,6 +1,6 @@
 # BatteryWarner
 
-#**I LEFT BINARIES IN THE FOLDERS ON PURPOSE OK GIT DOESNT COMMIT EMPTY DIRECTORIES**
+# **I LEFT BINARIES IN THE FOLDERS ON PURPOSE OK GIT DOESNT COMMIT EMPTY DIRECTORIES**
 ## A bad battery percentage warner for hyprland.
 ### thats fucking it
 
