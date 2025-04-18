@@ -8,8 +8,8 @@
 #include <cstdarg>
 #include <memory>
 #include <cstdio>
-#include "font.h"
-#include "logo.h"
+#include "include/font.h"
+#include "include/logo.h"
 
 #ifndef BATTERY_THRESHOLD
 #define BATTERY_THRESHOLD 21
