@@ -45,7 +45,7 @@ screwreturnslol=texture.loadFromMemory(archlogo_png, archlogo_png_size);
     sf::Sprite sprite(texture);
 
 // set the string to display
-text.setString("Please charge your Arch Linux system.\nI'm fot nucking around, you better \nchucking farge me right now.");
+text.setString("Please charge your Arch Linux system.\nI'm fot nucking around, you better \nchucking farge me right now.\n\n\nPRETEND THIS IS THE MANJARO LOGO");
 
 // set the character size
 text.setCharacterSize(20/2); // in pixels, not points!
