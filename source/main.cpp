@@ -50,7 +50,7 @@ text.setString("Please charge your Arch Linux system.\nI'm fot nucking around, y
 // set the character size
 text.setCharacterSize(20/2); // in pixels, not points!
 
-// set the color
+// set the colour
 text.setFillColor(sf::Color::Red);
 sprite.setScale({0.34/2, 0.14/2});
 sprite.setPosition({0, 50});
